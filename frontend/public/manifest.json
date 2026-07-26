@@ -1,0 +1,21 @@
+{
+  "name": "TornVault Intelligence",
+  "short_name": "TornVault",
+  "description": "Strategic Faction Intelligence for Torn.com",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "/window.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/window.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

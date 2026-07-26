@@ -1,0 +1,17 @@
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.local
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.local
+
+# Proje özelindeki hassas dosyalar
+backend/data/subscriptions.json
+debug_api.log
+backend/debug_api.log

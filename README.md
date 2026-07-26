@@ -1,6 +1,6 @@
 # TornVault
 
-TornVault is an analytics and management dashboard for Torn City factions and players. It provides roster tracking, armory logs, organized crime planning, and war pay calculations.
+⚡ A customizable and user-friendly faction analytics and management dashboard for Torn.com
 
 ![](https://i.imgur.com/0GUBkvq.png)
 
